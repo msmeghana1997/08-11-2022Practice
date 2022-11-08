@@ -6,4 +6,8 @@ public class Class1 {
 	{
 		System.out.println(" Added Successfully ");
 	}
+	public void modify()
+	{
+		System.out.println(" Modified successfully");
+	}
 }
