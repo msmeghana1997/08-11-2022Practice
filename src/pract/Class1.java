@@ -4,6 +4,6 @@ public class Class1 {
 
 	public void add()
 	{
-		System.out.println(" Added Successfully ");
+		System.out.println(" Added Successfully nooooo ");
 	}
 }
