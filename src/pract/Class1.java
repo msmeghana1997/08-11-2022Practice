@@ -6,4 +6,8 @@ public class Class1 {
 	{
 		System.out.println(" Added Successfully nooooo ");
 	}
+	public void sayno()
+	{
+		System.out.println("haha");
+	}
 }
